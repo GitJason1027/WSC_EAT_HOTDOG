@@ -1,5 +1,5 @@
 # WSC_EAT_HOTDOG
-##基于pygame
+## 基于pygame
 
 
 ![示例图片](https://github.com/GitJason1027/WSC_EAT_HOTDOG/blob/master/pic/wsc_eathotdog.png)
