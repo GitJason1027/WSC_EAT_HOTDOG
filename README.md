@@ -2,7 +2,7 @@
 ##基于pygame
 
 
-![示例图片]https://github.com/GitJason1027/WSC_EAT_HOTDOG/blob/master/pic/wsc_eathotdog.png
+![示例图片](https://github.com/GitJason1027/WSC_EAT_HOTDOG/blob/master/pic/wsc_eathotdog.png)
 
 数字1：WSC速度增加
 数字2：WSC速度减小
