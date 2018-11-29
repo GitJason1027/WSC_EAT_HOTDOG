@@ -4,8 +4,8 @@
 
 ![示例图片](https://github.com/GitJason1027/WSC_EAT_HOTDOG/blob/master/pic/wsc_eathotdog.png)
 
-操作
-____
+## 操作
+
 * 数字1：WSC速度增加
 * 数字2：WSC速度减小
 * 数字3：热狗🌭速度增加
